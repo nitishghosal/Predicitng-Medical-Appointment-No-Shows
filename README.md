@@ -1,7 +1,7 @@
 # Predicitng-Medical-Appointment-No-Shows
 Will patients show up to their medical appointments? An introduction to parameter tuning with sci-kit learn in Python
 
-##Objective
+## Objective
 The objective is to predict whether a patient will actually show up to medical appointment, given demographic data and pre-existing conditions.
 
 
